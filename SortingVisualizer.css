@@ -1,0 +1,21 @@
+.array-container {
+    position: absolute;
+    left: 100px;
+    background-color: rgb(61, 53, 53);
+    /* top: 100px; */
+  }
+  
+  .array-bar {
+    width: 2px ;
+    display: inline-block;
+    margin: 0 1px;
+    background-image: url("https://th.bing.com/th/id/OIP.qKLYd2tTUxTxFiFMYnHJtQHaIZ?pid=ImgDet&rs=1");
+  }
+*
+  {
+      
+      background-image: url("https://th.bing.com/th/id/R.1ab652bbf623516672bbd3b52679b642?rik=dOCTA005sLhEHQ&riu=http%3a%2f%2fs1.favim.com%2forig%2f150806%2faesthetic-background-blue-gradient-Favim.com-3072370.jpg&ehk=TEuUD2GJhtHZ6WnCouqHFlS7zrW0TlctWXT1%2bjemAEk%3d&risl=&pid=ImgRaw&r=0");
+  }
+button{
+    background-image: url("https://wallpapercave.com/wp/wp6350880.jpg");
+}
